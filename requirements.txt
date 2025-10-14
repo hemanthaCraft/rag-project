@@ -1,0 +1,5 @@
+PyPDF2
+sentence-transformers
+flask
+numpy
+google-generativeai
