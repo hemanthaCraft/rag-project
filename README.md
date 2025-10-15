@@ -32,7 +32,7 @@ AI-powered document search system using *Retrieval-Augmented Generation (RAG)* a
 8. *Generation*: Gemini AI synthesizes answer from retrieved chunks
 
 ## Demo Video
-<video src="video5759624597.mp4" controls width="600"></video>
+https://drive.google.com/file/d/1tiMOvMHQDS6jVvg4t8NhooG8GKQ3bPBx/view?usp=sharing
 
 ## 📦 Installation
 
