@@ -31,6 +31,9 @@ AI-powered document search system using *Retrieval-Augmented Generation (RAG)* a
 7. *Retrieval*: Top-3 most similar chunks found using cosine similarity
 8. *Generation*: Gemini AI synthesizes answer from retrieved chunks
 
+## Demo Video
+<video src="video5759624597.mp4" controls width="600"></video>
+
 ## 📦 Installation
 
 ### Prerequisites
@@ -75,3 +78,4 @@ python app.py
 
 
 7. *Open in browser*
+
